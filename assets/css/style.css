@@ -322,6 +322,15 @@ body {
     line-height: 0.7;
 }
 
+.banner-services-title {
+    font-family: 'Abhaya Libre', serif;
+    font-size: 42px;
+    font-weight: 700;
+    color: #2c2c2c;
+    margin: 0;
+    line-height: 0.7;
+}
+
 .gallery-section {
     padding: 60px 0;
     background-color: #fff;
@@ -542,8 +551,13 @@ body {
     }
 
     .banner-title {
-        font-size: 22px !important;
-        margin-bottom: 0 !important;
+        font-size: 20px !important;
+        margin-bottom: 15px !important;
+        line-height: 1.8;
+    }
+
+    .banner-services-title{
+        font-size: 22px;
         line-height: 0.2;
     }
 
